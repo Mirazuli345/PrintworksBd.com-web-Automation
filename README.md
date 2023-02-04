@@ -3,7 +3,9 @@
 #Project run process
 1. Download the folder
 2.Create maven project on eclips
+
 3.Import the folder
+
 4. Then Run the testCase. java file on testNg
 
 Automation Step:
